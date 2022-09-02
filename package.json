@@ -33,6 +33,7 @@
     ]
   },
   "devDependencies": {
+    "@azure/static-web-apps-cli": "^1.0.2",
     "@playwright/test": "^1.22.2"
   }
 }
